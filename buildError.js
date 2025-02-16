@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI to build an Android APK.  The build process fails with an error message indicating that the AAPT2 (Android Asset Packaging Tool) failed to compile the resources.  The error message might mention "AAPT2 error: check logs for details", but the logs themselves are often unhelpful and don't pinpoint the exact cause.
